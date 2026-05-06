@@ -57,7 +57,6 @@ Please also acknowledge the Election Commission of India as the original source 
 ## License
 
 This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-See the `LICENSE` file for details.
 
 ## Disclaimer
 
