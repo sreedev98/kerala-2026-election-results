@@ -4,10 +4,6 @@ This repository contains a candidate-level database of the 2026 Kerala Assembly 
 
 The dataset includes constituency-wise candidate results along with party, alliance, gender and age information. Candidate age and gender data were scraped from the Election Commission of India’s candidate affidavit portal, while election-result fields were compiled from official election result data.
 
-## Dataset
-
-The main dataset contains candidate-level records for Kerala’s 2026 Assembly election.
-
 ### Key fields
 
 - `constituency_no`: Assembly constituency number
